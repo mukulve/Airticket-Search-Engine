@@ -17,7 +17,5 @@
   <li>Flight Duration</li>
 </ul>
 
-
-
 https://user-images.githubusercontent.com/97366719/178310507-4b052788-9b4a-46ec-b683-a941d145e010.mp4
 
